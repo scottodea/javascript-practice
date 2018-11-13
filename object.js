@@ -6,7 +6,6 @@
 // // console.log(arr2)
 // const inquirer = require('inquirer')
 
-
 // var questions = [{
 //   type: 'input',
 //   name: 'name',
